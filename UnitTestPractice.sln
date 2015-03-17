@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProject", "MainProject\MainProject.csproj", "{BD3A5339-0491-447D-AD97-8BBDE28032F2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PPT", "PPT", "{9D93292B-69F9-490A-97F0-670CBE2C7DA1}"
+	ProjectSection(SolutionItems) = preProject
+		D:\SYSCOM\Tasks\20150302_MVC5Testing\MVC5 - Testing.pptx = D:\SYSCOM\Tasks\20150302_MVC5Testing\MVC5 - Testing.pptx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
